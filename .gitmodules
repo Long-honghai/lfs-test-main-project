@@ -1,0 +1,3 @@
+[submodule "number_3"]
+	path = number_3
+	url = git@github.com:Long-honghai/lfs-test-sub-project.git
